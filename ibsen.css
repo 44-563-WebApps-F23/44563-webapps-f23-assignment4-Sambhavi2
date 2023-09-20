@@ -58,17 +58,5 @@ ul.navbar-horizontal {
     display:block;
     padding:8px
     }
-
-    glyphicon {
-        position: relative;
-        top: 1px;
-        display: inline-block;
-        font-family: 'Glyphicons Halflings';
-        font-style: normal;
-        font-weight: 400;
-        line-height: 1;
-        -webkit-font-smoothing: antialiased;
-    }
-
     
 
