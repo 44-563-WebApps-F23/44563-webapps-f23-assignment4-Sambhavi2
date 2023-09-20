@@ -31,3 +31,15 @@ table{
 tr:nth-child(odd){
     background-color: aquamarine;
 }
+
+.RANK:hover{
+    color:  violet;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
+
+.NORA:hover{
+    color: violet;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
