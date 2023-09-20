@@ -43,3 +43,21 @@ tr:nth-child(odd){
     text-shadow: 2px 2px 4px red;
     border-style: solid;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:blanchedalmond;
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+   
+
+    
+
